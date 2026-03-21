@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hello! Welcome to my profile, I am Jonathan Porras Sandi  
+  Hello! Welcome to my profile, I'm Jonathan Porras Sandi  
 </h1>
 I am a Computer Engineering student at the Instituto Tecnológico de Costa Rica (TEC). I am deeply passionate about the world of computer science, and every line of code I write is an opportunity to learn, innovate and create.
 
