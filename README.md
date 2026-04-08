@@ -1,8 +1,7 @@
 <h1 align="center">
   Hello! Welcome to my profile, I'm Jonathan Porras Sandi  
 </h1>
-I am a Computer Engineering student at the Instituto Tecnológico de Costa Rica (TEC). I am deeply passionate about the world of computer science, and every line of code I write is an opportunity to learn, innovate and create.
-
+Hi, I'm a Software Engineer with strong knowledge of the core areas of computer science and a deep passion for programming and building meaningful technology solutions.
 
 🧠 I excel at developing robust and creative solutions, combining logical thinking with imagination to build cool stuff.
 
